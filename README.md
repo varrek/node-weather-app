@@ -1,1 +1,1 @@
-# node-note-app
+# node-weather-app
